@@ -21,8 +21,9 @@ Function overloading allows multiple functions to share the same name but differ
 
 Operator overloading allows developers to redefine the behavior of standard operators (like +, -, *, etc.) for user-defined types, such as classes. This feature enhances the intuitiveness and expressiveness of code, enabling operators to work seamlessly with custom objects as if they were built-in types.
 
+---
 
-### Algorithm for Function Overloading Program
+## Algorithm for Function Overloading Program
 1. **Start**.
 2. **Define Class** `addition`:
    - Declare overloaded `sum` methods:
